@@ -7,7 +7,7 @@
 #include <linux/uaccess.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Kunal Shrivastav");
 MODULE_DESCRIPTION("An advanced keyboard filter and remapper driver");
 MODULE_VERSION("0.2");
 
